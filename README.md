@@ -1,2 +1,3 @@
-# animations
-Projeto de animações com o mais puro css
+# simple-animations-with-pure-css
+
+Simple animations with pure css
